@@ -1,0 +1,26 @@
+{
+  "name": "Webpack",
+  "version": "1.0.0",
+  "description": "Webpack Initial Setup",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^4.3.1",
+    "webpack": "^5.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielplazada/Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielplazada/Webpack/issues"
+  },
+  "homepage": "https://github.com/danielplazada/Webpack#readme"
+}

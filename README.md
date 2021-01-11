@@ -4,6 +4,7 @@ Webpack Initial Setup
 ## Install Webpack and the command line instructions (CLI) tool using npm:
 
     npm install webpack webpack-cli 
+    npm init -y
 
 ## In package.json, verify if webpack and webpack-cli are added to the "dependencies" as:
 
@@ -14,7 +15,7 @@ Webpack Initial Setup
     },
 
 ## In package.json, add a build npm script as:
-p
+
     "scripts": {
     "build": "webpack"
     },
